@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 perubahan sandi yang pertama
+=======
+ggmu
+>>>>>>> d45e804cde4e32d181ee7d619547bec06e61c514
